@@ -1,12 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning
-.svg)](https://github.com/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning.svg)](https://github.com/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning
 /issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning
-.svg)](https://github.com/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning
-/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning
-.svg)](https://github.com/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning
-/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning.svg)](https://github.com/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning.svg)](https://github.com/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Artificial-Intelligence-and-Machine-Learning-Fundamentals-eLearning
 /pulls)
 
